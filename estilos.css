@@ -1,0 +1,74 @@
+html{
+  background: url(1.jpg);
+  background-size: 100%;
+}
+
+#header{
+  background: wheat;
+}
+
+div {
+  color: black;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 37px;
+  background: khaki;
+}
+section{
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: rgb(0, 0, 0);
+float: left;
+width: 70%;
+}
+
+aside{
+float: left;
+width: 30%;
+}
+
+table, th, td 
+{
+    border: 3px solid rgb(12, 12, 12);
+    border-collapse: collapse;
+    font-size: 25px;
+}
+
+  th, td
+  {
+    background-color: rgb(234, 231, 198);
+    
+  }
+  
+
+  #Reservar
+  {
+      background: rgb(188, 204, 154);
+      color: rgb(0, 0, 0);
+      font-size: 20px;
+  }
+
+  #Modificar
+  {
+    background: rgb(188, 204, 154);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+  }
+  
+  #eliminar
+  {
+    background: rgb(195, 123, 137);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+  }
+
+    
+  #Nombre
+  {
+    background:#ffffff;
+    font-size: 20px;
+  }
+
+  #Asiento
+  {
+    background:#ffffff;
+    font-size: 20px;
+  }
